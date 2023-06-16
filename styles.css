@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: rgb(68, 105, 101);
+}
+h1{
+ font-family: 'Cedarville Cursive', cursive;
+ font-size: 400%;
+ color: #88B5B1;
+ /* color: #88B5B1;
+ color: #64B5AD;
+ color: #B57151;
+ color: #0D0400; */
+}
+h3{
+ font-family: 'Cedarville Cursive', cursive;
+ font-size: 250%;
+ color: #64B5AD;
+}
+h2{
+font-family: cursive;
+ font-size: 150%;
+ color: #64B5AD;
+}
+
+.flex{
+    margin-top: 0px;
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.player{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap:20%;
+}
+.playerImg{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap:10%;
+}
